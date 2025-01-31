@@ -1,0 +1,5 @@
+streamlit
+asyncio
+pandas
+twikit
+datetime
