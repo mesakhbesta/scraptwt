@@ -128,4 +128,4 @@ if scrape_button:
         st.error("Mohon masukkan nama akun Twitter!")
 
 st.markdown("---")
-st.write("Developed by **Mesakh Besta Anugrah** 🚀")
+st.write("Developed by **Mesakh Besta Anugrah** ⚔️")
