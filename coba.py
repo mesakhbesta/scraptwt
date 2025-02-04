@@ -42,7 +42,7 @@ async def main(account_names, start_date, end_date, cookies_file):
                         "Tweet URL": f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}"
                     })
 
-                wait_time = randint(2, 4)
+                wait_time = randint(5, 10)
                 print(f"{datetime.now()} - Menunggu {wait_time} detik sebelum mengambil tweet berikutnya...")
                 time.sleep(wait_time)
                 
